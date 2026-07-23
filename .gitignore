@@ -1,0 +1,18 @@
+# Office temporary files
+~$*
+*.tmp
+*.bak
+
+# VBA editor and export artifacts
+*.frx
+*.exd
+
+# Build/package outputs
+releases/*.zip
+releases/*.xlsm
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
